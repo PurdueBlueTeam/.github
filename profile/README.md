@@ -1,7 +1,7 @@
 <div align=center>
 
 # <img src="https://avatars.githubusercontent.com/u/126585454?s=64" /><br />Blue Team at Purdue
-We are the defensive cybersecurity club of Purdue University.
+We are Purdue University's defensive cybersecurity club.
 <br>
 <br>
 <a href="https://discord.com/nnf8ypZhE3"><img src="https://dcbadge.limes.pink/api/server/nnf8ypZhE3" /></a>
