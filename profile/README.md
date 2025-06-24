@@ -6,7 +6,7 @@ We are the defensive cybersecurity club of Purdue University.
 <br>
 <a href="https://discord.com/nnf8ypZhE3"><img src="https://dcbadge.limes.pink/api/server/nnf8ypZhE3" /></a>
 
-### Executive Board
+### 2025-26 Executive Board
 
 Sean Cunningham - President<br />
 Colin Saumure - Vice President<br />
